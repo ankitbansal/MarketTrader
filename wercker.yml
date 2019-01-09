@@ -16,4 +16,4 @@ build:
     - java/maven:
       goals: install
       cache_repo: true
-      version: 3.5.2
+      version: 3.4.2
